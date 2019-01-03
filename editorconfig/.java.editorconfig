@@ -16,5 +16,5 @@ continuation_indent_size = 8
 [*.{json,xml,yml,css,less,scss,sass}]
 indent_size = 2
 
-[*.md]
+[*.{md,html}]
 max_line_length = off
